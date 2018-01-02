@@ -1,0 +1,26 @@
+User-Agent: *
+Disallow: 
+Allow: /CLP.html
+Allow: /HPA.html
+Allow: /BDC.html
+Allow: /YC.html
+Allow: /about-us.html
+Allow: /index.html
+Allow: /Umang.html
+Allow: /EAP.html
+Allow: /EPD.html
+Allow: /Junoon.html
+Allow: /school.html
+Allow: /Oasis.html
+Allow: /Parisodh.html
+Allow: /contact-us.html
+Allow: /sitemap.xml
+Allow: /googlee76e97833b8764cb.html
+Allow: /robots.txt
+Allow: /sitemap.html
+Allow: /feedback.php
+Allow: /process.php
+Allow: /ror.xml
+Allow: /urllist.xml
+Allow: /sendemail.php
+
